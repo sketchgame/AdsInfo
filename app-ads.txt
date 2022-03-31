@@ -64,3 +64,4 @@ spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
 video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
+google.com, pub-5030887049819310, DIRECT, f08c47fec0942fa0
