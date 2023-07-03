@@ -6,6 +6,9 @@ https://zhuanlan.zhihu.com/p/64066423
 paper
 https://www.docin.com/p-825760330.html
 
+art ref: 各种服饰的兵种
+https://baijiahao.baidu.com/s?id=1762499071493185289&wfr=spider&for=pc
+
 政局不稳
 阶级矛盾和民族矛盾
 引弓之士不下百万众也，归附之部落，不下数千里也，资装铠杖尚耐用也 ，驼马牛羊，尚全而有也。
